@@ -1,0 +1,14 @@
+.git
+Dockerfile
+docker-compose.yml
+.DS_Store
+.gitignore
+README.md
+env.*
+sample.env
+.env
+nginx
+db 
+# To prevent storing dev/temporary container data
+*.csv
+tmp
